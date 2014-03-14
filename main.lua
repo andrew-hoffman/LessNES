@@ -1,4 +1,1 @@
-require("RAM")
-
-initializeRam()
-
+require("6502")
