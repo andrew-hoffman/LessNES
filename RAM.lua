@@ -10,7 +10,6 @@ require("APU")
 -- PPU
 require("PPU")
 
-
 -- The RAM
 RAM = {}
 
