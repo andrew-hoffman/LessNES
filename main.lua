@@ -1,0 +1,4 @@
+require("RAM")
+
+initializeRam()
+
